@@ -2,7 +2,7 @@
 
 This scripts lets you convert between HEX and RGB color formats, right from your nearby chat.
 
-The script watches a certain channel for input and if it seems something to convert, it will reply.
+The script watches a certain channel for input and if it sees something to convert, it will reply.
 
 ## Usage
 
