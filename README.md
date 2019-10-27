@@ -10,7 +10,7 @@ Rez an object with this script. You can alter the listing channel by modifying t
 
 ## How to use
 
-Send a HEX or RGB value to the chosen channel. For example, if `listenChannel' is `616`, you can try to send the following commands:
+Send a HEX or RGB value to the chosen channel. For example, if `listenChannel` is `616`, you can try to send the following commands:
 
 ### RGB to HEX:
 ```
